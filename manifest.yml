@@ -1,0 +1,13 @@
+---
+applications:
+  .:
+    name: hello-eko
+    framework:
+      name: sinatra
+      info:
+        mem: 128M
+        description: Sinatra Application
+        exec: ruby hi.rb
+    url: ${name}.${target-base}
+    mem: 128M
+    instances: 1

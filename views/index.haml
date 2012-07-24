@@ -1,0 +1,27 @@
+.grid_12
+  %p=@me.about
+
+.clear
+
+.grid_4
+  %h3 Likes
+  %ul
+    -@me.interests.each do |like|
+      %li
+        %strong=like.value
+        %span=like.description
+.grid_4
+  %h3 Apps
+  %ul
+    - @me.urls.each do |app|
+      %li
+        %a{:href=> app.value}=app.name
+
+.grid_4
+  %h3 S**t I Say
+  %ul
+    -@me.thing_i_love.each do |sh|
+      %li
+        %strong=sh.i_say
+        %span=sh.why
+

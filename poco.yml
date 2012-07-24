@@ -1,0 +1,59 @@
+:display_name: "Eko Prasetyo"
+:preferred_username: "nirleka"
+:gender: "male"
+:relationship_status: "happily single"
+:about:  "I share therefore i am"
+:sports:
+  -
+    :value: "Jogging"
+    :about: "2,4KM non stop in 10mnt"
+:interests:
+  -
+    :value: "Reading"
+    :description: "Scyfi holic"
+  -
+    :value: "Web"
+    :description: "PHP, Python, Javascript, Erlang (on study)"
+  -
+    :value: "Framework"
+    :description: "Code Igniter, YII, Django, Web2py, ROR"
+:photos:
+  -
+    :type: "thumbnail"
+    :value: "/images/me.jpg"
+:emails:
+  -
+    :value: "attrib.ada@gmail.com"
+    :type: "work"
+:organizations:
+  -
+    :name: "Nirleka Soft"
+    :title: "Owner, Jack of all trade Officer"
+:ims:
+  -
+    :type: "ym"
+    :value: "ada.attrib"
+:accounts:
+  -
+    :domain: "github.com"
+    :username: "nirleka"
+  -
+    :domain: "twitter.com"
+    :username: "nirleka"
+  -
+    :domain: "facebook.com"
+    :username: "nirleka"
+:urls:
+  -
+    :name: Cocoretan
+    :value: "http://cocoretanapp.appspot.com/"
+    :type: "Apps"
+  
+
+:thing_i_love:
+  -
+    :i_say: YOLOLOL
+    :why: You Only Live Once LOL.
+  -
+    :i_say: Keep Dreaming boy!
+    :why: To make your brain keep alive.
