@@ -23,7 +23,6 @@
     :value: "/images/me.jpg"
 :emails:
   -
-<<<<<<< HEAD
     :value: "attrib.ada@gmail.com"
     :type: "work"
 :organizations:
@@ -58,9 +57,6 @@
   -
     :i_say: Keep Dreaming boy!
     :why: To make your brain keep alive.
-=======
-    :value: "mwilkinson@vmware.com"
-    :type: "work"
 :organizations:
   -
     :name: "activitystrea.ms"
@@ -121,4 +117,3 @@
   -
     :i_say: Connect the dots
     :why: Help build the programmable web. Expose Web Hooks. Build integrations. Map.Transform.
->>>>>>> b281e30609b0e7b830227b501e7c8489e9f4c293
