@@ -1,0 +1,149 @@
+<<<<<<< HEAD
+:display_name: "Eko Prasetyo"
+:preferred_username: "nirleka"
+:gender: "male"
+:relationship_status: "happily single"
+:about:  "I share therefore i am"
+:sports:
+  -
+    :value: "Jogging"
+    :about: "2,4KM non stop in 10mnt"
+:interests:
+  -
+    :value: "Reading"
+    :description: "Scyfi holic"
+  -
+    :value: "Web"
+    :description: "PHP, Python, Javascript, Erlang (on study)"
+  -
+    :value: "Framework"
+    :description: "Code Igniter, YII, Django, Web2py, ROR"
+=======
+:display_name: "Monica Wilkinson"
+:preferred_username: "ciberch"
+:gender: "female"
+:relationship_status: "happily married"
+:about:  "Many people describe themselves by listing links to the services they use. I prefer to describe myself by showing you what I do and what I think."
+:sports:
+  -
+    :value: "Tennis"
+    :about: "USTA 4.0 player @ SFTC"
+  -
+    :value: "Table Tennis"
+    :about: "Only for fun"
+:interests:
+  -
+    :value: "Travel"
+    :description: "I would like to go to Nepal"
+  -
+    :value: "Web & API Development"
+    :description: "Ruby, NodeJS, HTML 5"
+  -
+    :value: "Activity Streams"
+    :description: "And other open standards: OAuth, PubSubHubbub, PoCo"
+>>>>>>> b281e30609b0e7b830227b501e7c8489e9f4c293
+:photos:
+  -
+    :type: "thumbnail"
+    :value: "/images/me.jpg"
+:emails:
+  -
+<<<<<<< HEAD
+    :value: "attrib.ada@gmail.com"
+    :type: "work"
+:organizations:
+  -
+    :name: "Nirleka Soft"
+    :title: "Owner, Jack of all trade Officer"
+:ims:
+  -
+    :type: "ym"
+    :value: "ada.attrib"
+:accounts:
+  -
+    :domain: "github.com"
+    :username: "nirleka"
+  -
+    :domain: "twitter.com"
+    :username: "nirleka"
+  -
+    :domain: "facebook.com"
+    :username: "nirleka"
+:urls:
+  -
+    :name: Cocoretan
+    :value: "http://cocoretanapp.appspot.com/"
+    :type: "Apps"
+  
+
+:thing_i_love:
+  -
+    :i_say: YOLOLOL
+    :why: You Only Live Once LOL.
+  -
+    :i_say: Keep Dreaming boy!
+    :why: To make your brain keep alive.
+=======
+    :value: "mwilkinson@vmware.com"
+    :type: "work"
+:organizations:
+  -
+    :name: "activitystrea.ms"
+    :title: "Contributor"
+  -
+    :name: "Cloud Foundry"
+    :title: "Developer Advocate"
+:ims:
+  -
+    :type: "skype"
+    :value: "ciberch"
+:accounts:
+  -
+    :domain: "github.com"
+    :username: "ciberch"
+  -
+    :domain: "twitter.com"
+    :username: "ciberch"
+  -
+    :domain: "facebook.com"
+    :username: "mciberch"
+  -
+    :domain: "linkedin.com"
+    :username: "ciberch"
+:urls:
+  -
+    :name: Cloud Foundry Reusable Presos
+    :value: "http://studios.cloudfoundry.com"
+    :type: "work"
+  -
+    :name: Cloud Foundry Docs
+    :value: "http://start.cloudfoundry.com"
+    :type: "work"
+  -
+    :name: Cloud Foundry Main Website
+    :value: "http://www.cloudfoundry.com"
+    :type: "work"
+  -
+    :name: Activity Streams Node Boilerplate Template
+    :value: "http://asms.cloudfoundry.com"
+    :type: "work"
+  -
+    :name: Salesforce/LinkedIn Demo
+    :value: "http://salesforce-demo.cloudfoundry.com"
+    :type: "work"
+  -
+    :name: App Showcase -- In progress
+    :value: "http://collaboration.cloudfoundry.com"
+    :type: "work"
+
+:shit_i_say:
+  -
+    :i_say: Do What you Love
+    :why: You owe it to yourself.
+  -
+    :i_say: Just Do It
+    :why: Ship It. Don't be afraid to iterate in the open. Inspire others.
+  -
+    :i_say: Connect the dots
+    :why: Help build the programmable web. Expose Web Hooks. Build integrations. Map.Transform.
+>>>>>>> b281e30609b0e7b830227b501e7c8489e9f4c293
